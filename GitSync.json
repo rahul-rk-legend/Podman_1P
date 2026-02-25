@@ -16,7 +16,9 @@
         },
         "Job": {
             "projects/project/locations/location/instances/instance/integrations/GoogleChronicle/jobs/1/jobInstances/8": "Adding a readme on",
-            "projects/project/locations/location/instances/instance/integrations/MicrosoftAzureSentinel/jobs/26/jobInstances/7": "Adding a readme on"
+            "projects/project/locations/location/instances/instance/integrations/MicrosoftAzureSentinel/jobs/26/jobInstances/7": "Adding a readme on",
+            "Sync Incidents": "Adding a readme on",
+            "Google Chronicle Sync Job": "Adding a readme on"
         }
     },
     "settings": {

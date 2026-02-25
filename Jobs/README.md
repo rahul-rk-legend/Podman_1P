@@ -1,4 +1,41 @@
-## projects/project/locations/location/instances/instance/integrations/GoogleChronicle/jobs/1/jobInstances/8
+## Google Chronicle Sync Job
+This job will synchronize information about Chronicle SOAR Cases and Chronicle SOAR Alerts with Chronicle SIEM.
+ Note: This job is only supported from Chronicle SOAR version 6.1.44 and higher.
+
+
+**Run Interval In Seconds:** 60
+
+#### Parameters
+|Name|Type|Is Mandatory|Value|
+|----|----|------------|-----|
+|Environment|String|True|Default Environment|
+|API Root|String|True|https://backstory.googleapis.com|
+|Max Hours Backwards|String|False|24|
+|Verify SSL|Boolean|False|true|
+|User's Service Account|Password|False|*****|
+|Workload Identity Email|Password|False|*****|
+
+
+Adding a readme on## Sync Incidents
+This job synchronizes Google SecOps Alerts and Microsoft Sentinel Incidents. It ensures that comments, status, and tags are kept in sync between the two systems. For the job to identify the correct information, the Google SecOps case must have the “Microsoft Sentinel Incident” tag. If the alert didn’t originate from “Microsoft Azure Sentinel Incident Connector v2”,  you will need to add an “Incident_ID” context value to the case for the job to be able to find the correct information.
+
+
+**Run Interval In Seconds:** 60
+
+#### Parameters
+|Name|Type|Is Mandatory|Value|
+|----|----|------------|-----|
+|Environment Name|String|True|Default Environment|
+|Azure Active Directory ID|String|True|vsdvdsvsdvdsvsd|
+|OAUTH2 Login Endpoint Url|String|True|https://login.microsoftonline.com|
+|API Root|String|True|https://graph.microsoft.com|
+|Client ID|String|True|fgregreasdasdasd|
+|Max Hours Backwards|Integer|False|24|
+|Verify SSL|Boolean|False|true|
+|Client Secret|Password|True|*****|
+
+
+Adding a readme on## projects/project/locations/location/instances/instance/integrations/GoogleChronicle/jobs/1/jobInstances/8
 This job will synchronize information about Chronicle SOAR Cases and Chronicle SOAR Alerts with Chronicle SIEM.
  Note: This job is only supported from Chronicle SOAR version 6.1.44 and higher.
 

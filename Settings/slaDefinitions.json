@@ -1,0 +1,58 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/slaDefinitions/4",
+        "id": 4,
+        "slaType": "AlertPriority",
+        "slaTypeValue": "[\"High\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Days",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Hours",
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/slaDefinitions/3",
+        "id": 3,
+        "slaType": "CasePriority",
+        "slaTypeValue": "[\"Medium\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Days",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Days",
+        "environments": [
+            "C_1P_Podman",
+            "B_1P_Podman",
+            "A_1P_Podman"
+        ]
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/slaDefinitions/2",
+        "id": 2,
+        "slaType": "CaseStage",
+        "slaTypeValue": "[\"Podman_1P_Case_Stage_1\",\"Incident\",\"Podman_1P_Case_Stage_2\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Hours",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Hours",
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/slaDefinitions/1",
+        "id": 1,
+        "slaType": "AlertRuleGenerator",
+        "alertType": "SpecificAlerts",
+        "slaTypeValue": "[\"Virus Found Or security risk found\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Minutes",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Minutes",
+        "environments": [
+            "A_1P_Podman",
+            "B_1P_Podman"
+        ]
+    }
+]

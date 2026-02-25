@@ -1,0 +1,26 @@
+[
+    {
+        "alias": "projects/project/locations/location/instances/instance/soarDomains/3",
+        "id": 3,
+        "domain": "Podman_1P_Domain_3",
+        "environments": "[\"*\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    },
+    {
+        "alias": "projects/project/locations/location/instances/instance/soarDomains/2",
+        "id": 2,
+        "domain": "Podman_1P_Domain_2",
+        "environments": "[\"A_1P_Podman\",\"B_1P_Podman\",\"C_1P_Podman\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    },
+    {
+        "alias": "projects/project/locations/location/instances/instance/soarDomains/1",
+        "id": 1,
+        "domain": "Podman_1P_Domain_1",
+        "environments": "[\"C_1P_Podman\",\"A_1P_Podman\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/dynamicParameters/2",
+        "id": 2,
+        "displayName": "Dynamic_2_1P_Podman",
+        "parameterType": "List",
+        "defaultValue": "Dynamic_2_1P_Podman",
+        "optionalValuesJson": "[\"Dynamic_2_1P_Podman\",\"Dynamic_1_1P_Podman\"]"
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/dynamicParameters/1",
+        "id": 1,
+        "displayName": "Dynamic_1_1P_Podman",
+        "parameterType": "String",
+        "defaultValue": "Dynamic_1_1P_Podman",
+        "optionalValuesJson": "[]"
+    }
+]

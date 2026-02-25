@@ -1,0 +1,57 @@
+{
+    "soar_block_entities": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podman_1P_Blocklist_2",
+            "entityType": "CVE",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_1",
+            "entityType": "ADDRESS",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
+        }
+    ],
+    "items": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podman_1P_Blocklist_2",
+            "entityType": "CVE",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_1",
+            "entityType": "ADDRESS",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
+        }
+    ],
+    "soarBlockEntities": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podman_1P_Blocklist_2",
+            "entityType": "CVE",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_1",
+            "entityType": "ADDRESS",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
+        }
+    ],
+    "totalSize": 2
+}

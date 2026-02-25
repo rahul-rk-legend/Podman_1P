@@ -1,0 +1,110 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/4",
+        "id": 0,
+        "system": false,
+        "displayName": "C_1P_Podman",
+        "description": "C_1P_Podman",
+        "contact": "C_1P_Podman",
+        "contactEmails": "c@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_1_1P_Podman",
+                "dynamicParameterId": 1,
+                "environmentId": 4
+            },
+            {
+                "value": "Dynamic_2_1P_Podman",
+                "dynamicParameterId": 2,
+                "environmentId": 4
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/3",
+        "id": 0,
+        "system": false,
+        "displayName": "B_1P_Podman",
+        "description": "B_1P_Podman",
+        "contact": "B_1P_Podman",
+        "contactEmails": "b@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_1_1P_Podman",
+                "dynamicParameterId": 1,
+                "environmentId": 3
+            },
+            {
+                "value": "Dynamic_2_1P_Podman",
+                "dynamicParameterId": 2,
+                "environmentId": 3
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/2",
+        "id": 0,
+        "system": false,
+        "displayName": "A_1P_Podman",
+        "description": "A_1P_Podman",
+        "contact": "A_1P_Podman",
+        "contactEmails": "a@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_1_1P_Podman",
+                "dynamicParameterId": 1,
+                "environmentId": 2
+            },
+            {
+                "value": "Dynamic_2_1P_Podman",
+                "dynamicParameterId": 2,
+                "environmentId": 2
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/1",
+        "id": 0,
+        "system": true,
+        "displayName": "Default Environment",
+        "description": "Default Environment",
+        "contact": "N/A",
+        "contactEmails": "example@example.com",
+        "contactPhone": "0000000000",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_1_1P_Podman",
+                "dynamicParameterId": 1,
+                "environmentId": 1
+            },
+            {
+                "value": "Dynamic_2_1P_Podman",
+                "dynamicParameterId": 2,
+                "environmentId": 1
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    }
+]

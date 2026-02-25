@@ -2,7 +2,9 @@
     "system_version": "6.1.6.161",
     "readme_addons": {
         "Integration": {},
-        "Mappings": {},
+        "Mappings": {
+            " AzureSecurityCenter": "adding a readme on "
+        },
         "Visual Family": {
             "Podman_1P_Visual_Families_5": "Adding a readme on ",
             "Podman_1P_Visual_Families_4": "Adding a readme on "

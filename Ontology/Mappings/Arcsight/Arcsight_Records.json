@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "source": "Arcsight",
+        "familyName": "MailRelayOrTAP",
+        "familyId": 0,
+        "product": "Phishing email detector",
+        "eventName": "Email check",
+        "mappingStatus": null,
+        "changeSource": "IngestedAlert",
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Arcsight",
+        "familyName": "AV",
+        "familyId": 0,
+        "product": "symantec:ep:risk:file",
+        "eventName": "Virus found",
+        "mappingStatus": null,
+        "changeSource": "IngestedAlert",
+        "exampleEventFields": []
+    }
+]

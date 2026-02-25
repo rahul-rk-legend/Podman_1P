@@ -3,7 +3,10 @@
     "readme_addons": {
         "Integration": {},
         "Mappings": {},
-        "Visual Family": {},
+        "Visual Family": {
+            "Podman_1P_Visual_Families_5": "Adding a readme on ",
+            "Podman_1P_Visual_Families_4": "Adding a readme on "
+        },
         "Playbook": {},
         "Connector": {
             "Microsoft Graph Mail Connector": "Adding a readme on",

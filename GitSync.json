@@ -5,7 +5,10 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "Microsoft Graph Mail Connector": "Adding a readme on",
+            "Microsoft Azure Sentinel Incident Connector v2": "Adding a readme on"
+        },
         "Job": {}
     },
     "settings": {

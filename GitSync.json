@@ -12,7 +12,10 @@
             "Microsoft Graph Mail Connector": "Adding a readme on",
             "Microsoft Azure Sentinel Incident Connector v2": "Adding a readme on"
         },
-        "Job": {}
+        "Job": {
+            "projects/project/locations/location/instances/instance/integrations/GoogleChronicle/jobs/1/jobInstances/8": "Adding a readme on",
+            "projects/project/locations/location/instances/instance/integrations/MicrosoftAzureSentinel/jobs/26/jobInstances/7": "Adding a readme on"
+        }
     },
     "settings": {
         "update_root_readme": true

@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "creatorUserId": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "parentEventId": 0,
+                        "deviceEventClassId": "Podman_1P_Simulated_Case_4",
+                        "startTime": "1772018966011",
+                        "endTime": "1772018966011",
+                        "deviceProduct": "Podman_1P_Simulated_Case_4"
+                    },
+                    "_rawDataFields": {
+                        "podman_1P_Simulated_Case_4": "Podman_1P_Simulated_Case_4",
+                        "deviceEventClassId": "Podman_1P_Simulated_Case_4",
+                        "deviceProduct": "Podman_1P_Simulated_Case_4",
+                        "name": "Podman_1P_Simulated_Case_4"
+                    },
+                    "environment": null,
+                    "sourceSystemName": null,
+                    "extensions": []
+                }
+            ],
+            "environment": null,
+            "sourceSystemName": "Podman_1P_Simulated_Case_4",
+            "ticketId": null,
+            "description": null,
+            "displayId": null,
+            "reason": null,
+            "name": "Podman_1P_Simulated_Case_4",
+            "deviceVendor": "Podman_1P_Simulated_Case_4",
+            "deviceProduct": "Podman_1P_Simulated_Case_4",
+            "startTime": 1772018966011,
+            "endTime": 1772018966011,
+            "type": 0,
+            "priority": -1,
+            "ruleGenerator": "Podman_1P_Simulated_Case_4",
+            "sourceGroupingIdentifier": null,
+            "playbookTriggerKeywords": [],
+            "extensions": [
+                {
+                    "key": "Podman_1P_Simulated_Case_4",
+                    "value": "Podman_1P_Simulated_Case_4"
+                }
+            ],
+            "attachments": null,
+            "isTrimmed": false,
+            "dataType": 1,
+            "sourceType": 1,
+            "sourceSystemUrl": null,
+            "sourceRuleIdentifier": null,
+            "siemAlertId": null,
+            "updatedFields": [],
+            "alertUpdateSupported": false,
+            "alertMetadata": {},
+            "dataAccessScope": null
+        }
+    ],
+    "type": 0,
+    "connectorIdentifier": null,
+    "debugOutput": null
+}

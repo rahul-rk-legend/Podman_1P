@@ -1,0 +1,26 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/soarNetworks/3",
+        "id": 3,
+        "displayName": "Podman_1P_Networks_3",
+        "address": "192.168.0.3/24",
+        "environmentsJson": "[\"A_1P_Podman\",\"B_1P_Podman\",\"C_1P_Podman\"]",
+        "priority": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/soarNetworks/2",
+        "id": 2,
+        "displayName": "Podman_1P_Networks_2",
+        "address": "192.168.0.2/16",
+        "environmentsJson": "[\"*\"]",
+        "priority": 3
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/soarNetworks/1",
+        "id": 1,
+        "displayName": "Podman_1P_Networks_1",
+        "address": "192.168.0.1/8",
+        "environmentsJson": "[\"C_1P_Podman\",\"A_1P_Podman\"]",
+        "priority": 4
+    }
+]

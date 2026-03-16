@@ -1,0 +1,81 @@
+{
+    "entities_blocklists": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/3",
+            "id": 3,
+            "entityIdentifier": "Podman_1P_Blocklist_3",
+            "entityType": "ThreatCampaign",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"C_1P_Podman\",\"B_1P_Podman\",\"A_1P_Podman\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podman_1P_Blocklist_2",
+            "entityType": "PROCESS",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_1",
+            "entityType": "APPLICATION",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
+        }
+    ],
+    "items": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/3",
+            "id": 3,
+            "entityIdentifier": "Podman_1P_Blocklist_3",
+            "entityType": "ThreatCampaign",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"C_1P_Podman\",\"B_1P_Podman\",\"A_1P_Podman\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podman_1P_Blocklist_2",
+            "entityType": "PROCESS",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_1",
+            "entityType": "APPLICATION",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
+        }
+    ],
+    "entitiesBlocklists": [
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/3",
+            "id": 3,
+            "entityIdentifier": "Podman_1P_Blocklist_3",
+            "entityType": "ThreatCampaign",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"C_1P_Podman\",\"B_1P_Podman\",\"A_1P_Podman\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/2",
+            "id": 2,
+            "entityIdentifier": "Podman_1P_Blocklist_2",
+            "entityType": "PROCESS",
+            "action": "DoNotCreateEntity",
+            "environmentsJson": "[\"*\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/entitiesBlocklists/1",
+            "id": 1,
+            "entityIdentifier": "Podman_1P_Blocklist_1",
+            "entityType": "APPLICATION",
+            "action": "DoNotGroupAlerts",
+            "environmentsJson": "[\"B_1P_Podman\",\"A_1P_Podman\"]"
+        }
+    ],
+    "totalSize": 3
+}

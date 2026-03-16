@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "projects/project/locations/location/instances/instance/customLists/3",
+        "category": "Hostname",
+        "entityIdentifier": "Podman_1P_Custom_List_3",
+        "environments": "[\"*\"]"
+    },
+    {
+        "id": 2,
+        "name": "projects/project/locations/location/instances/instance/customLists/2",
+        "category": "URL",
+        "entityIdentifier": "Podman_1P_Custom_List_2",
+        "environments": "[\"A_1P_Podman\",\"C_1P_Podman\",\"B_1P_Podman\"]"
+    },
+    {
+        "id": 1,
+        "name": "projects/project/locations/location/instances/instance/customLists/1",
+        "category": "Domain",
+        "entityIdentifier": "Podman_1P_Custom_List_1",
+        "environments": "[\"A_1P_Podman\",\"B_1P_Podman\"]"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/emailTemplates/3",
+        "templateType": "Template",
+        "author": "60a54ff2-4199-4967-bf03-4c090c25845c",
+        "id": 3,
+        "content": "Subject: Follow-up: [Topic or Project Name]\nHi [Name],\nI hope you\u2019re having a productive week.\nI\u2019m following up on our recent discussion regarding [topic]. I wanted to see if you had any updates or if there\u2019s any additional information I can provide to help move things forward.\nLooking forward to hearing from you.\nBest regards,\n[Your Name]",
+        "displayName": "Podman_1P_Email_Templates_3",
+        "environments": "[\"*\"]"
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/emailTemplates/2",
+        "templateType": "Template",
+        "author": "60a54ff2-4199-4967-bf03-4c090c25845c",
+        "id": 2,
+        "content": "Subject: Follow-up: [Topic or Project Name]\nHi [Name],\nI hope you\u2019re having a productive week.\nI\u2019m following up on our recent discussion regarding [topic]. I wanted to see if you had any updates or if there\u2019s any additional information I can provide to help move things forward.\nLooking forward to hearing from you.\nBest regards,\n[Your Name]",
+        "displayName": "Podman_1P_Email_Templates_2",
+        "environments": "[\"C_1P_Podman\",\"B_1P_Podman\",\"A_1P_Podman\",\"Default Environment\"]"
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/emailTemplates/1",
+        "templateType": "Template",
+        "author": "60a54ff2-4199-4967-bf03-4c090c25845c",
+        "id": 1,
+        "content": "Subject: Follow-up: [Topic or Project Name]\nHi [Name],\nI hope you\u2019re having a productive week.\nI\u2019m following up on our recent discussion regarding [topic]. I wanted to see if you had any updates or if there\u2019s any additional information I can provide to help move things forward.\nLooking forward to hearing from you.\nBest regards,\n[Your Name]",
+        "displayName": "Podman_1P_Email_Templates_1",
+        "environments": "[\"C_1P_Podman\",\"A_1P_Podman\",\"Default Environment\"]"
+    }
+]
